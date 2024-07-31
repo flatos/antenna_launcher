@@ -10,7 +10,7 @@ This repository contains a detailed description of construction, plus Solidworks
 ![Graph](img/Assembly.png)
 
 > [!CAUTION]
-> Plenty of people have successfully built and used similar launchers.
-> Then again, there are also people who warn against using PVC pipe in compressed-air applications.
+> Plenty of people have successfully built and used similar launchers.\
+> Then again, there are also people who warn against using PVC pipe in compressed-air applications.\
 > The
 

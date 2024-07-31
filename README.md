@@ -16,5 +16,12 @@ This repository contains a detailed description of construction, plus Solidworks
 > Review cautionary material such as the following before proceeding:  [Can PVC Pipe Be Used for Compressed Air?](https://fluidairedynamics.com/blogs/articles/can-pvc-pipe-be-used-for-compressed-air)
 
 
+## Construction
 
+![Graph](img/Explode.png)
+
+| | | |
+| :---: | --- | --- |
+| 1 | 1" PVC pipe, Sch 40, 20" | Home Depot, etc.  $2.96 |
+| 9 | 2" PVC pipe, Sch 40, 24" | Home Depot, etc.  $4.94 |
 

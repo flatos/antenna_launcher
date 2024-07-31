@@ -39,3 +39,9 @@ Assemble PVC components with the appropriate primer and cement. I used `Weld-On 
 
 Use yellow Teflon tape on threaded connections. e.g. `Eastman 1/2 Inch x 260 Inch Teflon Pipe Thread for Gas Lines, 4 mil` (Amazon $2.20).
 
+
+## Projectile ("Spud")
+
+![Graph](img/Proj_Assembly.png)
+![Graph](img/Proj_Explode.png)
+

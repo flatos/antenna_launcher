@@ -35,3 +35,7 @@ This repository contains a detailed description of construction, plus Solidworks
 | 11 | 1 | PVC Cap, Socket, 2 in Pipe Size | Zoro G5275225 $1.49 |
 
 
+Assemble PVC components with the appropriate primer and cement. I used `Weld-On 15900 Twin Pack 780 PVC Regular-Bodied Plumbing Solvent Cement and Purple Plumbing Primer` (Amazon $8.34).
+
+Use yellow Teflon tape on threaded connections. e.g. `Eastman 1/2 Inch x 260 Inch Teflon Pipe Thread for Gas Lines, 4 mil` (Amazon $2.20).
+

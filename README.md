@@ -45,3 +45,19 @@ Use yellow Teflon tape on threaded connections. e.g. `Eastman 1/2 Inch x 260 Inc
 ![Graph](img/Proj_Assembly.png)
 ![Graph](img/Proj_Explode.png)
 
+| | Qty | Desc | Source |
+| :---: | :---: | --- | --- |
+| 1 | 2 | End cap | End_Cap_v3a.STL |
+| 2 | 2.5in | 1/2" PVC pipe, Sch 40 | Home Depot, etc.  $1.56 / 24in |
+
+I attached the end caps using self-tapping screws to allow experimenting with additional weight.\
+I haven't found this to be necessary, though; the basic 0.7oz spud seems to work fine.
+
+Material cost for each projectile is around $0.25, so you can afford to lose a few in the trees....
+
+The end caps feature a loop to tie the fishing line to without any additional hardware.
+
+
+
+
+

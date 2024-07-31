@@ -12,5 +12,9 @@ This repository contains a detailed description of construction, plus Solidworks
 > [!CAUTION]
 > Plenty of people have successfully built and used similar launchers.\
 > Then again, there are also people who warn against using PVC pipe in compressed-air applications.\
-> The
+> The Schedule 40 PVC pipe used in the air tank of this design is rated at 280 psi, and I generally charge it to 25-50 psi.\
+> Review cautionary material such as the following before proceeding:  [Can PVC Pipe Be Used for Compressed Air?](https://fluidairedynamics.com/blogs/articles/can-pvc-pipe-be-used-for-compressed-air)
+
+
+
 

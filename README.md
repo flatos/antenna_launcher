@@ -59,7 +59,7 @@ I added a pair of inline fuses (under the heat shrink) to prevent accidental dam
 
 | | Qty | Desc | Source |
 | :---: | :---: | --- | --- |
-| 1 | 2 | End cap | End_Cap_v3a.STL |
+| 1 | 2 | End cap | End_Cap_v3a.STL or End_Cap_v4.STL |
 | 2 | 2.5in | 1/2" PVC pipe, Sch 40 | Home Depot, etc.  $1.56 / 24in |
 
 I attached the end caps using self-tapping screws to allow experimenting with additional weight.\
@@ -85,6 +85,8 @@ I haven't tried this; electrical activation was easier and worked well enough fo
 One drawback of this design is that the 3d-printed end caps on the spuds can shatter if they collide hard with an obstacle. Print a couple extra!
 
 ## References
+
+Thanks to these previous designers:
 
 [Utah Valley ARC pneumatic launcher](https://noji.com/hamradio/pdf-ppt/noji/Noji-Article-Antenna-Launcher.pdf)
 

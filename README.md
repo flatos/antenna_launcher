@@ -5,7 +5,7 @@ My design for a pneunatic antenna launcher.
 Based on the many pre-existing designs on the web (see links at end). 
 My goals were minimal component cost and simplicity, not necessarily maximum performance.
 
-This repository contains a detailed description of construction, plus Solidworks and STL files for a few 3d-printed components.
+This repository contains a description of construction, plus Solidworks and STL files for a few 3d-printed components.
 
 ![Graph](img/Assembly.png)
 
@@ -38,6 +38,18 @@ This repository contains a detailed description of construction, plus Solidworks
 Assemble PVC components with the appropriate primer and cement. I used `Weld-On 15900 Twin Pack 780 PVC Regular-Bodied Plumbing Solvent Cement and Purple Plumbing Primer` (Amazon $8.34).
 
 Use yellow Teflon tape on threaded connections. e.g. `Eastman 1/2 Inch x 260 Inch Teflon Pipe Thread for Gas Lines, 4 mil` (Amazon $2.20).
+
+
+![Graph](img/Main.png)
+
+I used TE CPC connectors only because I had some on hand -- use something cheaper...
+
+![Graph](img/Control.png)
+
+I had a 19.2V cordless drill battery pack that I pressed into service. Standard 0.25" quick-connect terminals will fit the battery's terminals. 
+I added a pair of inline fuses (under the heat shrink) to prevent accidental damage... The control box contains only a momentary toggle switch for firing.
+
+
 
 
 ## Projectile ("Spud")

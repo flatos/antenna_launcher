@@ -46,7 +46,7 @@ I used TE CPC connectors only because I had some on hand -- use something cheape
 
 ![Graph](img/Control.png)
 
-I had a 19.2V cordless drill battery pack that I pressed into service. Standard 0.25" quick-connect terminals will fit the battery's terminals. 
+I have a 19.2V cordless drill battery pack that I pressed into service. Standard 0.25" quick-connect terminals will fit the battery's terminals. 
 I added a pair of inline fuses (under the heat shrink) to prevent accidental damage... The control box contains only a momentary toggle switch for firing.
 
 
@@ -70,12 +70,35 @@ Material cost for each projectile is around $0.25, so you can afford to lose a f
 The end caps feature a loop to tie the fishing line to without any additional hardware.
 
 
-Photos of completed launcher:
-details of reel, connector, switch box, battery
+## Usage
 
-Performance (height reached?)
+The unit as described here worked perfectly to launch a line over an approximately 55ft tall tree, using a 50 PSI charge. I haven't done any performance testing beyond that.
 
-Links
+I loaded the reel with 15lb monofilament line (`Walmart, $2.42 for 500 yards`) and launched the line over the tree. I then pulled over some sisal (?) twine, 
+and finally used the twine to pull the 3/16" Dacron antenna rope.
+
+Additional weight could easily be added to the spuds. They're very light (0.7oz) and might benefit from some added mass, although I haven't tried this.
+
+Many of the designers of similar projects state that modifying the valve for pneumatic triggering gives a noticeable performance improvement (see links below). 
+I haven't tried this; electrical activation was easier and worked well enough for my purposes. 
+
+One drawback of this design is that the 3d-printed end caps on the spuds can shatter if they collide hard with an obstacle. Print a couple extra!
+
+## References
+
+[Utah Valley ARC pneumatic launcher](https://noji.com/hamradio/pdf-ppt/noji/Noji-Article-Antenna-Launcher.pdf)
+
+[K4ICY Antenna Launcher](http://www.k4icy.com/launcher.html)
+
+[AE1S](http://blog.kotarak.net/2011/04/say-hello-to-my-little-friend.html)
+
+[K8BLO](https://www.qsl.net/k8blo/launchers.html)
+
+[WS6X](https://www.ws6x.com/squirrel.htm)
+
+[Pneumatic Antenna Launching Systems](http://www.antennalaunchers.com/antlaunching.html)
+
+
 
 ## Gratuitous Inclusion of STL Viewer
 I just discovered that github allows you to display STL files within your markdown documents, so I'm doing that.

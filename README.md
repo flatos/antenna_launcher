@@ -101,6 +101,9 @@ Thanks to these previous designers:
 [Pneumatic Antenna Launching Systems](http://www.antennalaunchers.com/antlaunching.html)
 
 
+## Contact
+ac8p@proton.me
+
 
 ## Gratuitous Inclusion of STL Viewer
 I just discovered that github allows you to display STL files within your markdown documents, so I'm doing that.
